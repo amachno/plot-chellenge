@@ -33,3 +33,5 @@ Firtsly, I simply plot the data as follows in R:
 * Put the braces of connecting the vertical lines and label them
 * Something I haven't noticed?
 
+##Code
+In the plot_code.R file, I typed the initial code which produces the plot which is to be changed. I hope you will contribute to this code.
