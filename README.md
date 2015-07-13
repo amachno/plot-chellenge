@@ -9,7 +9,8 @@ The article is available on the site: http://arxiv.org/abs/0910.2909
 The data_chellenge.csv is not the original data used in the article. It is created by me, in my opinions it is similar to the data used in the article (also generated).
 
 ##Goals  
-Firtsly, I simply plot the data as follows in R  
+I want you to help me create the plot as much similar to the plot in plot_chellenge.png as possible.  
+Firtsly, I simply plot the data as follows in R:  
 <code>#read the data into R</code>    
 <code>data<-read.csv('data_chellenge.csv')</code>   
 <code>#plot the S.1 variable putting correct y axis lim </code>  
@@ -30,4 +31,5 @@ Firtsly, I simply plot the data as follows in R
 * Label the points with mathematical symbols and greek letters
 * Draw horizontal lines from the ponts to vertical lines
 * Put the braces of connecting the vertical lines and label them
+* Something I haven't noticed?
 
